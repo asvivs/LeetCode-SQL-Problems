@@ -1,4 +1,4 @@
-Table: Employee
+/*Table: Employee
 
 +-------------+---------+
 | Column Name | Type    |
@@ -18,7 +18,7 @@ Write a solution to find managers with at least five direct reports.
 
 Return the result table in any order.
 
-Solution:
+Solution:*/
 
 select name from employee
 where id in (select managerId from employee
