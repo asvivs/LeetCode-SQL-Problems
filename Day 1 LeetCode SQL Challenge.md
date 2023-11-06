@@ -4,4 +4,4 @@
 
 You can find the detailed solution to this problem in my Medium blog post:
 
-https://medium.com/@asvithavs/what-if-civil-war-turns-into-sql-war-ad809a5b6bdf(#)
+https://medium.com/@asvithavs/what-if-civil-war-turns-into-sql-war-ad809a5b6bdf
